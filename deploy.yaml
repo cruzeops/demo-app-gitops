@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: cruzeops/demo-app:03211857-8f05
+        image: cruzeops/demo-app:03222305-4b42
         ports:
         - containerPort: 5001
         resources:
